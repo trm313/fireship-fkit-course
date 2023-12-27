@@ -1,3 +1,10 @@
+# Overview
+
+Following Fireship's fkit-course
+
+https://github.com/fireship-io/fkit-course
+https://fireship.io/courses/sveltekit/
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
